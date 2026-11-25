@@ -1,0 +1,2 @@
+krátký text 
+vytvářím commit
